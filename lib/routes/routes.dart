@@ -22,7 +22,7 @@ class Routers {
 
     //Seccuion de RH
     /* search_word */ namesRouter[1].toList()[0] : ( _ ) => const SearchWordScreen(),
-    /* memorama */ namesRouter[1].toList()[1] : ( _ ) => const MemoramaScreen()
+    /* memorama */ namesRouter[1].toList()[1] : ( _ ) => MemoramaScreen()
 
 
 
